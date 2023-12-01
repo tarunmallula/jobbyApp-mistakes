@@ -1,0 +1,12 @@
+.jobs-container {
+  background-color: #000000;
+  padding-top: 20px;
+}
+.jobs-section {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 90%;
+  max-width: 1110px;
+  padding-bottom: 25px;
+}

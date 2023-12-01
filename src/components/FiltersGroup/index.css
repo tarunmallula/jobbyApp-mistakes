@@ -1,0 +1,36 @@
+.filters-group {
+  display: flex;
+  flex-direction: column;
+}
+.horizontal-lin {
+  width: 100%;
+}
+.filter-groups-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.filters-heading {
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
+
+.filters-lists-container {
+  list-style-type: none;
+  padding: 0;
+}
+
+.filter-list-item {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.filter-input-label {
+  color: #ffffff;
+  margin-left: 8px;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
